@@ -1,0 +1,16 @@
+{
+  "name": "scrapvigicrues",
+  "version": "1.0.0",
+  "description": "scrap vigicrues, get a geojson file of the stations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "florent beauchamp",
+  "license": "WTFL",
+  "dependencies": {
+    "lodash": "^3.9.3",
+    "proj4": "^2.3.6",
+    "scrap": "^0.1.0"
+  }
+}
